@@ -1,0 +1,2 @@
+# pytorch_GAN_simple_example
+这篇文章主要是介绍了使用pytorch框架构建生成对抗网络GAN来生成虚假图像的原理与简单实例代码
